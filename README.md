@@ -1,8 +1,6 @@
 # Airline-Management-System
 Our Airlines Management System streamlines airline operations with a comprehensive software suite. It facilitates reservation management, employee tracking, and detailed passenger information.
 
-# Airlines Management System
-
 The Airlines Management System is a comprehensive software solution designed to streamline operations for airline companies. Developed using MySQL Workbench 8.0.24, Java, and Apache NetBeans 17, this system encompasses various functionalities including reservation management, employee tracking, and detailed passenger information.
 
 ## Features:
