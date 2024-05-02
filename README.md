@@ -29,3 +29,4 @@ The Airlines Management System is a comprehensive software solution designed to 
 3. Import the SQL file for database creation.
 4. Run the application using Apache NetBeans 17.
 5. Explore the comprehensive functionality offered by the Airlines Management System.
+6. Refer the complete DBMS Assignment docs.pdf file for more details about the project.
